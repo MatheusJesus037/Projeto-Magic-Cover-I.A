@@ -1,7 +1,5 @@
 # Projeto-Magic-Cover-I.A
 
-# Projeto-Magic-Cover-I.A
-
 ## 📌 Sobre o projeto
 Este projeto foi desenvolvido durante meus estudos em **HTML, CSS e JavaScript**.  
 O objetivo foi praticar conceitos de **animações, transições e interatividade**, criando uma capa ("Magic Cover") com efeitos visuais dinâmicos.
